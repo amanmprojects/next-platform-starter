@@ -9,7 +9,7 @@ const navItems = [
     { linkText: 'Image CDN', href: '/image-cdn' },
     { linkText: 'Edge Function', href: '/edge' },
     { linkText: 'Blobs', href: '/blobs' },
-    { linkText: 'Aman Info' href: 'google.com/search?q=AmanMehtar' }
+    { linkText: 'Aman Info', href: 'google.com/search?q=AmanMehtar' }
 ];
 
 export function Header() {
